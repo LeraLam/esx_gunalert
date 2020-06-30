@@ -13,7 +13,12 @@
   * Probability
   * Areas *(cf : [map coordinates](https://gtagmodding.com/maps/gta5/))*
   
-  
+## dependencies 
+
+  * es_extended
+  * esx_addons_gcphone
+
+
 ## Contributors 
   * [**LeraLam**](https://github.com/LeraLam)
   * [BvThTrd](https://github.com/BvThTrd)
